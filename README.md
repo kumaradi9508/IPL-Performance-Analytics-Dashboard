@@ -5,7 +5,7 @@
 ---
 
 [![Dashboard](Images/Dashboard.png)](Images/Dashboard.png)
-[![Dashboard2](Images/Dashboard2.png)](Images/Dashboard%2.png)
+[![Dashboard 2](Images/Dashboard%202.png)](Images/Dashboard%202.png)
 
 
 ## 🚀 Project Overview
