@@ -5,8 +5,8 @@
 ---
 
 [![Dashboard](Images/Dashboard.png)](Images/Dashboard.png)
+[![Dashboard](Images/Dashboard.png)](Images/Dashboard.png)
 
-*(Add a screenshot of your dashboard to an `Images/` folder and update the path above — GitHub will render it right in the README.)*
 
 ## 🚀 Project Overview
 
@@ -14,7 +14,8 @@ This project simulates a real-world sports analytics assignment. Using match, pl
 
 The goal: answer the kind of questions a fan, analyst, or franchise strategist would actually ask — not just display charts for the sake of it.
 
-🔗 **[View the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzliY2Y2OTctMDNkOC00MmI3LWJmYmEtNzM3MzFjMmU1NjIzIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)** — opens directly in your browser, no sign-in required.
+🔗 **[View the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzliY2Y2OTctMDNkOC00MmI3LWJmYmEtNzM3MzFjMmU1NjIzIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D
+)** — 
 
 ---
 
@@ -73,7 +74,6 @@ The goal: answer the kind of questions a fan, analyst, or franchise strategist w
 ## 📈 Key Insights Uncovered
 
 - **Mumbai Indians lead in total wins (155)**, but **Gujarat Titans have the best win percentage (60.9%)** despite being one of the newest franchises
-- Captains **field first in ~66% of matches**, yet winning the toss only translates to a match win **51.7%** of the time — a much smaller edge than commonly assumed
 - **AB de Villiers** holds the most Player of the Match awards (25), ahead of Chris Gayle (22) and Rohit Sharma (21)
 - **Eden Gardens** has hosted the most matches (77) of any venue across IPL history
 - **Sixes per season have nearly doubled since 2021** (687 → 1,302 in 2025), reflecting more aggressive batting — likely tied to the Impact Player rule introduced in 2023
@@ -114,10 +114,10 @@ IPL-Performance-Analytics-Dashboard/
 │   ├── teams_data.csv
 │   ├── team_aliases.csv
 │   └── IPL_finals.csv
-├── Report/
-│   ├── IPL_Project_Report.docx        # Full project report (Word)
-│   └── IPL_Project_Report.tex         # Full project report (LaTeX)
 ├── Images/                            # Dashboard screenshots and team logos
+├── Report/
+│   ├── IPL_Project_Report.pdf        # Full project report (Pdf)
+├── License                            
 └── README.md
 ```
 
@@ -146,12 +146,12 @@ IPL-Performance-Analytics-Dashboard/
 
 ## 👤 Author
 
-**[Your Name]**
+**Aditya Kumar**
 Data Analytics Student | Power BI · SQL · Python · Excel
 
-📧 [your.email@example.com]
-🔗 [linkedin.com/in/your-profile]
-💻 [github.com/your-username]
+📧 [adisatya9508@gmail.com]
+🔗 [https://www.linkedin.com/in/aditya-kumar-459077322/]
+💻 [https://github.com/kumaradi9508]
 
 ---
 
