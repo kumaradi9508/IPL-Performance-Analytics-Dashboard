@@ -28,7 +28,7 @@ The goal: answer the kind of questions a fan, analyst, or franchise strategist w
 | **Total Deliveries** | 288,226 |
 | **Total Seasons** | 19 (2008–2026) |
 | **Venues Covered** | 59, across 38 cities |
-| **Total Runs Scored** | 389,928 |
+| **Total Runs Scored** | 370,266 |
 | **Tables** | `ipl_matches_data`, `ball_by_ball_data`, `players-data-updated`, `teams_data`, `team_aliases`, `IPL_finals` |
 
 ### 🗂️ Schema (core tables)
